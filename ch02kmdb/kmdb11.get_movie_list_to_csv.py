@@ -135,7 +135,7 @@ print(movieTable.info())
 # csv(comma separate value) : 텍스트 형식의 파일로 엑셀에서 열 수 있습니다.
 filename = 'kmdb_get_movie_list.csv'
 movieTable.to_csv(filename, index=False, encoding='UTF-8')
-print(filename + ' 파일이 저장되었습니다.')
+print(filename + ' 파일이 저장되었습니다.^^')
 
 
 
