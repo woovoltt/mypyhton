@@ -1,0 +1,14 @@
+<cars>
+    <car>
+        <brand name="hyundai">현대</brand>
+        <model>소나타</model>
+        <year>2022</year>
+        <color>White</color>
+    </car>
+    <car>
+        <brand name="kia">기아</brand>
+        <model>K7</model>
+        <year>2023</year>
+        <color>Black</color>
+    </car>
+</cars>
